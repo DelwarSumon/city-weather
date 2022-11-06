@@ -1,6 +1,6 @@
 <p align="center"><a href="https://react-accu-weather.netlify.app/" target="_blank" ><img src="https://github.com/DelwarSumon/city-weather/blob/main/public/weather.png?raw=true" style="width:150px; height:auto;"></a></p>
 
-## Getting Started with City Weather
+## Getting Started with City Weather App
 
 City Weather is a React Application to know the current location weather info. You can search by city name and get the weather info of that city form <a href="https://www.accuweather.com/" target="_blank">AccuWeather</a>.
 
