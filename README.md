@@ -1,4 +1,4 @@
-<p align="center"><a href="https://react-accu-weather.netlify.app/" target="_blank" ><img src="https://github.com/DelwarSumon/city-weather/blob/main/public/weather.png?raw=true"></a></p>
+<p align="center"><a href="https://react-accu-weather.netlify.app/" target="_blank" ><img src="https://github.com/DelwarSumon/city-weather/blob/main/public/weather.png?raw=true" style="width:150px; height:auto;"></a></p>
 
 ## Getting Started with City Weather
 
