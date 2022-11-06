@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/1.2/css/weather-icons.min.css);
+
+.weather_wrapper{
+	width: 400px;
+	margin: 40px auto;
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  border-radius: 10px;
+}
+.weatherCard{
+	width: 400px;
+	height: 200px;
+	font-family: 'Open Sans';
+	position: relative;
+}
+.weatherInfo{
+  padding: 9px 18px;
+  background: darkslategray;
+  color: #fff;
+  font-style: italic;
+  border-radius: 0px 0px 10px 10px;
+}
+.currentTemp{
+	width: 220px;
+	height: 200px;
+	background: rgb(41, 41, 41);
+	position: absolute;
+	top: 0;
+	left: 0;
+  border-radius: 10px 0px 0px 0px;
+}
+.currentWeather{
+	width: 180px;
+	height: 200px;
+	background: rgb(237, 237, 237);
+	margin: 0;
+	position: absolute;
+	top: 0;
+	right: 0;
+  border-radius: 0px 10px 0px 0px;
+
+}
+.currentTemp .category{
+	font-size: 16px;
+    text-align: center;
+    display: block;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    padding: 18px 0 0;
+    text-transform: uppercase;
+}
+.temp{
+	font-size: 72px;
+	text-align: center;
+	display: block;
+	font-weight: 300;
+	color: rgb(255, 255, 255);
+	/* padding: 20px 0 0; */
+}
+.location{
+	color: rgb(255, 255, 255);
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 18px;
+	display: block;
+}
+.location sup{
+  padding: 5px 7px;
+  background: red;
+  border-radius: 20px;
+  font-size: 15px;
+  top: -20px;
+}
+.conditions{
+	font-family: weathericons;
+	font-size: 80px;
+	display: block;
+	padding: 20px 0 0;
+	text-align: center;
+}
+.info{
+	width: 180px;
+	height: 50px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background: rgb(42, 178, 234);
+	font-weight: 700;
+	color: rgb(255, 255, 255);
+	text-align: center;
+}
+.min-temp {
+	width: 50%;
+	position: absolute;
+	left: 10px;
+	word-spacing: 60px;
+}
+.max-temp {
+	width: 50%;
+	right: -10px;
+	position: absolute;
+	word-spacing: 60px;
+}
+.max-temp::before{
+	display: block;
+	content: '\f050';
+	font-family: weathericons;
+	font-size: 25px;
+	left: -10px;
+	position: absolute;
+	top: 5px;
+}
