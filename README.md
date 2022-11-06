@@ -1,4 +1,4 @@
-<p align="center"><a href="https://react-accu-weather.netlify.app/" target="_blank" ><img src="https://github.com/DelwarSumon/bookmark-manager/blob/main/public/weather.png?raw=true"></a></p>
+<p align="center"><a href="https://react-accu-weather.netlify.app/" target="_blank" ><img src="https://github.com/DelwarSumon/city-weather/blob/main/public/weather.png?raw=true"></a></p>
 
 ## Getting Started with City Weather
 
@@ -38,6 +38,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Screenshot of City Weather App
 
-<p align="center"><img src="https://github.com/DelwarSumon/bookmark-manager/blob/main/public/images/Weather-1.png?raw=true"></p>
-<p align="center"><img src="https://github.com/DelwarSumon/bookmark-manager/blob/main/public/images/Weather-2.png?raw=true"></p>
-<p align="center"><img src="https://github.com/DelwarSumon/bookmark-manager/blob/main/public/images/Weather-3.png?raw=true"></p>
+<p align="center"><img src="https://github.com/DelwarSumon/city-weather/blob/main/public/images/Weather-1.png?raw=true"></p>
+<p align="center"><img src="https://github.com/DelwarSumon/city-weather/blob/main/public/images/Weather-2.png?raw=true"></p>
+<p align="center"><img src="https://github.com/DelwarSumon/city-weather/blob/main/public/images/Weather-3.png?raw=true"></p>
