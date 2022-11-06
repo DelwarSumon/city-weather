@@ -8,7 +8,7 @@ City Weather is a React Application to know the current location weather info. Y
 ### Installation Procedure
 
 * git clone https://github.com/DelwarSumon/city-weather.git
-* change your directory to city-weather (`cd city-weather`)
+* change your directory to city-weather (For windows - `cd city-weather`)
 * npm install
 
 
