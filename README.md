@@ -2,7 +2,7 @@
 
 ## Getting Started with City Weather App
 
-City Weather is a React Application to know the current location weather info. You can search by city name and get the weather info of that city form <a href="https://www.accuweather.com/" target="_blank">AccuWeather</a>.
+City Weather is a React Application to know the current location weather info. Also you can search by city name and get the weather info of that city form <a href="https://www.accuweather.com/" target="_blank">AccuWeather</a>.
 API Link : <a href="https://developer.accuweather.com/apis" target="_blank">AccuWeather API</a>
 
 ### Installation Procedure
